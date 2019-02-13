@@ -1,3 +1,6 @@
+body {
+    width: 1200px;
+}
 #square{
    background: red; 
    width:600px;
@@ -16,10 +19,8 @@
 
 .left {
     float: left;
-    margin: 20px 0px 0px 20px;
 }
 
 .right {
-    float: right;
-    margin: 20px 20px 10px 20px;   
+    float: right; 
 }
