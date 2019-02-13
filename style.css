@@ -1,0 +1,25 @@
+#square{
+   background: red; 
+   width:600px;
+   height:600px;
+}
+#rectangle1 {
+    background: blue;
+    width:600px;
+    height:200px;
+}
+#rectangle2{
+    background: black;
+    width:300px;
+    height:400px;
+}
+
+.left {
+    float: left;
+    margin: 20px 0px 0px 20px;
+}
+
+.right {
+    float: right;
+    margin: 20px 20px 10px 20px;   
+}
